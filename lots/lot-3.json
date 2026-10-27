@@ -1,0 +1,353 @@
+{
+  "version": 3,
+  "messages": [
+    {
+      "id": "l3-q-pascal-plus-court",
+      "category": "citation",
+      "domain": "general",
+      "text": "Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte.",
+      "author": "Blaise Pascal",
+      "source": "Lettres provinciales, 16e lettre, 1657"
+    },
+    {
+      "id": "l3-q-huxley-silence",
+      "category": "citation",
+      "domain": "musique",
+      "text": "Après le silence, ce qui se rapproche le plus d'exprimer l'inexprimable, c'est la musique.",
+      "author": "Aldous Huxley",
+      "source": "Music at Night, essai « The Rest Is Silence », 1931 (traduction)"
+    },
+    {
+      "id": "l3-q-hamming-important",
+      "category": "citation",
+      "domain": "science",
+      "text": "Si vous ne travaillez pas sur un problème important, il est peu probable que vous fassiez un travail important.",
+      "author": "Richard Hamming",
+      "source": "« You and Your Research », conférence aux Bell Labs, 1986 (traduction)"
+    },
+    {
+      "id": "l3-q-sagan-preuves",
+      "category": "citation",
+      "domain": "science",
+      "text": "Les affirmations extraordinaires exigent des preuves extraordinaires.",
+      "author": "Carl Sagan",
+      "source": "Cosmos, épisode « Encyclopaedia Galactica », 1980"
+    },
+    {
+      "id": "l3-q-feynman-nature",
+      "category": "citation",
+      "domain": "science",
+      "text": "Pour qu'une technologie réussisse, la réalité doit passer avant les relations publiques, car on ne trompe pas la nature.",
+      "author": "Richard Feynman",
+      "source": "Rapport de la commission Rogers, annexe F, 1986 (traduction)"
+    },
+    {
+      "id": "l3-q-galilee-mathematique",
+      "category": "citation",
+      "domain": "science",
+      "text": "Ce grand livre de l'univers est écrit en langue mathématique.",
+      "author": "Galilée",
+      "source": "Il Saggiatore (L'Essayeur), 1623 (traduction)"
+    },
+    {
+      "id": "l3-q-beckett-mieux",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Essayer encore. Échouer encore. Échouer mieux.",
+      "author": "Samuel Beckett",
+      "source": "Worstward Ho, 1983 (traduction)"
+    },
+    {
+      "id": "l3-q-turing-chemin",
+      "category": "citation",
+      "domain": "reves",
+      "text": "Nous ne voyons qu'à une courte distance devant nous, mais nous y voyons beaucoup de choses à faire.",
+      "author": "Alan Turing",
+      "source": "« Computing Machinery and Intelligence », Mind, 1950 (traduction)"
+    },
+    {
+      "id": "l3-q-hofstadter-loi",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Cela prend toujours plus de temps que prévu, même en tenant compte de la loi de Hofstadter.",
+      "author": "Douglas Hofstadter",
+      "source": "Gödel, Escher, Bach, 1979 (traduction)"
+    },
+    {
+      "id": "l3-q-parkinson-temps",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Le travail s'étend jusqu'à remplir le temps disponible pour son achèvement.",
+      "author": "C. Northcote Parkinson",
+      "source": "« Parkinson's Law », The Economist, 19 novembre 1955 (traduction)"
+    },
+    {
+      "id": "l3-q-camus-sommets",
+      "category": "citation",
+      "domain": "reves",
+      "text": "La lutte elle-même vers les sommets suffit à remplir un cœur d'homme.",
+      "author": "Albert Camus",
+      "source": "Le Mythe de Sisyphe, 1942"
+    },
+    {
+      "id": "l3-q-voltaire-mieux",
+      "category": "citation",
+      "domain": "entreprise",
+      "text": "Le mieux est l'ennemi du bien.",
+      "author": "Voltaire",
+      "source": "La Bégueule, 1772"
+    },
+    {
+      "id": "l3-q-lafontaine-partir",
+      "category": "citation",
+      "domain": "reves",
+      "text": "Rien ne sert de courir ; il faut partir à point.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables, « Le Lièvre et la Tortue », 1668"
+    },
+    {
+      "id": "l3-q-seneque-temps-perdu",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Ce n'est pas que nous ayons peu de temps, c'est que nous en perdons beaucoup.",
+      "author": "Sénèque",
+      "source": "De la brièveté de la vie, I, 3"
+    },
+    {
+      "id": "l3-q-poincare-douter",
+      "category": "citation",
+      "domain": "science",
+      "text": "Douter de tout ou tout croire, ce sont deux solutions également commodes, qui l'une et l'autre nous dispensent de réfléchir.",
+      "author": "Henri Poincaré",
+      "source": "La Science et l'Hypothèse, 1902"
+    },
+    {
+      "id": "l3-q-kahneman-focalisation",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Rien dans la vie n'est aussi important qu'on le pense quand on y pense.",
+      "author": "Daniel Kahneman",
+      "source": "Thinking, Fast and Slow, 2011 (traduction)"
+    },
+    {
+      "id": "l3-q-kahneman-wysiati",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Ce que l'on voit est tout ce qu'il y a.",
+      "author": "Daniel Kahneman",
+      "source": "Thinking, Fast and Slow, 2011 (traduction ; principe « WYSIATI »)"
+    },
+    {
+      "id": "l3-q-graham-travailler",
+      "category": "citation",
+      "domain": "entreprise",
+      "text": "Pour savoir sur quoi travailler, le moyen est de travailler.",
+      "author": "Paul Graham",
+      "source": "« How to Do Great Work », 2023 (traduction)"
+    },
+    {
+      "id": "l3-q-nietzsche-chaos",
+      "category": "citation",
+      "domain": "musique",
+      "text": "Il faut porter en soi un chaos pour pouvoir donner naissance à une étoile dansante.",
+      "author": "Friedrich Nietzsche",
+      "source": "Ainsi parlait Zarathoustra, Prologue, 1883"
+    },
+    {
+      "id": "l3-q-hugo-lutter",
+      "category": "citation",
+      "domain": "reves",
+      "text": "Ceux qui vivent, ce sont ceux qui luttent.",
+      "author": "Victor Hugo",
+      "source": "Les Châtiments, 1853"
+    },
+    {
+      "id": "l3-q-spinoza-difficile",
+      "category": "citation",
+      "domain": "reves",
+      "text": "Tout ce qui est beau est aussi difficile que rare.",
+      "author": "Baruch Spinoza",
+      "source": "Éthique, partie V, proposition 42, scolie, 1677"
+    },
+    {
+      "id": "l3-q-darwin-grandeur",
+      "category": "citation",
+      "domain": "science",
+      "text": "Il y a de la grandeur dans cette manière d'envisager la vie.",
+      "author": "Charles Darwin",
+      "source": "De l'origine des espèces, dernier paragraphe, 1859 (traduction)"
+    },
+    {
+      "id": "l3-q-montaigne-sais-je",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Que sais-je ?",
+      "author": "Michel de Montaigne",
+      "source": "Essais, livre II, chapitre 12, 1580"
+    },
+    {
+      "id": "l3-q-rabelais-conscience",
+      "category": "citation",
+      "domain": "science",
+      "text": "Science sans conscience n'est que ruine de l'âme.",
+      "author": "François Rabelais",
+      "source": "Pantagruel, chapitre 8, 1532"
+    },
+    {
+      "id": "l3-a-vitruve-echea",
+      "category": "anecdote",
+      "domain": "acoustique",
+      "text": "Vers 25 av. J.-C., l'architecte romain Vitruve décrit dans son traité sur l'architecture des vases de bronze accordés, à placer sous les gradins des théâtres pour renforcer les voix. Aucun exemplaire n'a survécu et leur effet réel reste très discuté. L'acoustique des salles s'est donc pensée très tôt, bien avant de savoir la mesurer."
+    },
+    {
+      "id": "l3-a-fletcher-munson",
+      "category": "anecdote",
+      "domain": "acoustique",
+      "text": "En 1933, Harvey Fletcher et Wilden Munson, des Bell Labs, publient les premières courbes d'égale sensation sonore : l'oreille est bien moins sensible aux graves qu'aux médiums, surtout à faible volume. Voilà pourquoi un mixage change de couleur quand on monte ou baisse le son. Mixer à plusieurs niveaux d'écoute est donc une vraie précaution."
+    },
+    {
+      "id": "l3-a-cherry-cocktail",
+      "category": "anecdote",
+      "domain": "acoustique",
+      "text": "En 1953, Colin Cherry fait écouter à des sujets deux voix simultanées dans le même casque, ou une voix différente dans chaque oreille. Il montre que nous suivons une voix en ignorant l'autre, mais en percevant des traits physiques comme le changement de voix. C'est l'origine de l'étude de l'« effet cocktail party »."
+    },
+    {
+      "id": "l3-a-zimmer-interstellar",
+      "category": "anecdote",
+      "domain": "musique",
+      "text": "Pour « Interstellar », Christopher Nolan donne à Hans Zimmer une simple lettre d'une page sur un père qui quitte son enfant, sans lui parler du film. Zimmer compose en une journée un morceau fragile au piano et à l'orgue. Nolan y a reconnu le cœur du film, et l'orgue du Temple Church de Londres est devenu la signature de la partition."
+    },
+    {
+      "id": "l3-a-portman-emma",
+      "category": "anecdote",
+      "domain": "musique",
+      "text": "En mars 1997, Rachel Portman remporte l'Oscar de la meilleure musique de comédie ou de comédie musicale pour « Emma » : elle est la première femme récompensée pour une musique originale de film, hors équipes de composition. Elle a raconté que cet Oscar l'avait aidée à convaincre ceux qui hésitaient à l'engager."
+    },
+    {
+      "id": "l3-a-chaplin-limelight",
+      "category": "anecdote",
+      "domain": "musique",
+      "text": "Charlie Chaplin composait lui-même la musique de ses films, sans savoir lire la partition : il faisait écrire ce qu'il jouait ou chantait par des arrangeurs. Pour « Les Feux de la rampe » (1952), il reçoit un Oscar de la meilleure musique en 1973, vingt ans plus tard, car le film n'avait été projeté à Los Angeles qu'en 1972."
+    },
+    {
+      "id": "l3-a-herrmann-taxi",
+      "category": "anecdote",
+      "domain": "musique",
+      "text": "Bernard Herrmann termine l'enregistrement de la musique de « Taxi Driver » le 23 décembre 1975 et meurt dans la nuit, à 64 ans. Le film de Martin Scorsese sort en 1976 avec une dédicace : « À Bernard Herrmann ». Il avait composé à la fois un jazz sombre et des cordes angoissées pour New York."
+    },
+    {
+      "id": "l3-a-morricone-oscar",
+      "category": "anecdote",
+      "domain": "musique",
+      "text": "Ennio Morricone a reçu un Oscar d'honneur en 2007 pour l'ensemble de sa carrière, alors qu'il avait été cinq fois nommé sans gagner. Il décroche enfin un Oscar en 2016, à 87 ans, pour « Les Huit Salopards » de Quentin Tarantino. Une longue persévérance, récompensée sur le tard."
+    },
+    {
+      "id": "l3-a-marshall-helicobacter",
+      "category": "anecdote",
+      "domain": "science",
+      "text": "En 1984, le médecin australien Barry Marshall, dont personne ne voulait croire que des bactéries causent les ulcères, boit une culture d'Helicobacter pylori. Quelques jours plus tard, il a une gastrite, qu'il soigne avec des antibiotiques. Il partage le prix Nobel de médecine en 2005 avec Robin Warren."
+    },
+    {
+      "id": "l3-a-payne-hydrogene",
+      "category": "anecdote",
+      "domain": "science",
+      "text": "Dans sa thèse de 1925, Cecilia Payne montre que les étoiles sont faites surtout d'hydrogène et d'hélium. Henry Norris Russell, l'astronome le plus influent de l'époque, juge ce résultat impossible, et elle nuance sa conclusion dans le texte. En 1929, Russell parvient aux mêmes résultats par une autre méthode et cite sa thèse."
+    },
+    {
+      "id": "l3-a-ben-jerry",
+      "category": "anecdote",
+      "domain": "entreprise",
+      "text": "En 1978, Ben Cohen et Jerry Greenfield suivent un cours par correspondance d'une valeur de 5 dollars pour apprendre à fabriquer de la glace. Ils ouvrent la même année une boutique dans une station-service reconvertie de Burlington, dans le Vermont. Un apprentissage à petit prix peut suffire pour lancer un premier produit."
+    },
+    {
+      "id": "l3-a-sam-phillips-studio",
+      "category": "anecdote",
+      "domain": "entreprise",
+      "text": "En janvier 1950, Sam Phillips ouvre à Memphis un petit studio, le Memphis Recording Service, qui enregistre « tout, partout, à tout moment ». Pour vivre, il capte mariages, réunions et funérailles, et laisse aussi les passants graver un disque pour quelques dollars. Ce même studio est devenu le Sun Studio."
+    },
+    {
+      "id": "l3-a-butler-bestseller",
+      "category": "anecdote",
+      "domain": "reves",
+      "text": "En 1988, avant ses grands succès, Octavia Butler écrit dans un carnet qu'elle sera une autrice de best-sellers, et se donne des consignes pour y arriver. Elle est devenue en 1995 la première autrice de science-fiction à recevoir une bourse MacArthur. Le carnet est conservé à la bibliothèque Huntington, en Californie."
+    },
+    {
+      "id": "l3-a-locke-latham-objectifs",
+      "category": "anecdote",
+      "domain": "reves",
+      "text": "Edwin Locke et Gary Latham résument en 2002 trente-cinq ans de recherches sur les objectifs au travail. Les objectifs précis et difficiles font mieux progresser que le vague « fais de ton mieux », à condition d'avoir les moyens de les atteindre et un retour sur ses progrès. Conseil : transforme « avancer sur ma musique » en « finir 16 mesures avant vendredi »."
+    },
+    {
+      "id": "l3-a-newton-tapeurs",
+      "category": "anecdote",
+      "domain": "apprentissage",
+      "text": "En 1990, la psychologue Elizabeth Newton demande à des « tapeurs » de marteler du doigt le rythme d'une chanson connue. Ils estiment que la moitié des auditeurs la reconnaîtront ; en réalité, 3 chansons sur 120 le sont. C'est la malédiction du savoir : ce qu'on sait déjà est difficile à imaginer inconnu. Pour expliquer ton travail, teste-le sur quelqu'un qui n'y connaît rien."
+    },
+    {
+      "id": "l3-a-dunlosky-techniques",
+      "category": "anecdote",
+      "domain": "apprentissage",
+      "text": "En 2013, John Dunlosky et ses collègues passent en revue dix techniques d'étude. Seules le test sur soi-même et la répétition espacée obtiennent une utilité élevée ; relire et surligner sont jugés peu utiles. Conseil : transforme tes notes en questions, puis revois-les à intervalles de plus en plus longs."
+    },
+    {
+      "id": "l3-a-wason-confirmation",
+      "category": "anecdote",
+      "domain": "apprentissage",
+      "text": "En 1960, Peter Wason propose une suite de nombres, 2-4-6, et demande de trouver la règle en testant d'autres suites. La plupart des participants ne testent que des suites qui confirment leur hypothèse, comme 8-10-12, sans chercher celles qui la contredisent. Conseil : face à une idée qui te plaît, cherche activement le cas qui la ferait échouer."
+    },
+    {
+      "id": "l3-a-fischhoff-apres-coup",
+      "category": "anecdote",
+      "domain": "apprentissage",
+      "text": "En 1975, Baruch Fischhoff montre que, une fois un résultat connu, on juge qu'il était plus prévisible qu'on ne l'aurait dit avant : c'est le biais de rétrospection. Conseil : avant un lancement ou une réunion, note ce que tu prévois ; tu compareras ensuite à ce qui s'est vraiment passé, au lieu de te fier à ta mémoire."
+    },
+    {
+      "id": "l3-e-premier-devis",
+      "category": "encouragement",
+      "domain": "entreprise",
+      "text": "Le premier devis de We Make Waves n'a pas besoin d'être parfait. Il doit être envoyé. Écris-le aujourd'hui, relis-le une fois, puis envoie-le."
+    },
+    {
+      "id": "l3-e-ecoute-piece",
+      "category": "encouragement",
+      "domain": "acoustique",
+      "text": "Avant de sortir le sonomètre, ferme les yeux dans la pièce et écoute-la une minute. Où le son s'étale-t-il, où s'étouffe-t-il ? Tes mesures ne feront que confirmer ce que ton oreille a déjà repéré."
+    },
+    {
+      "id": "l3-e-chante-theme",
+      "category": "encouragement",
+      "domain": "musique",
+      "text": "Un bon thème se chante, même mal, sans instrument. Si tu ne peux pas le fredonner, il est probablement trop compliqué : simplifie avant d'orchestrer."
+    },
+    {
+      "id": "l3-e-temp-track",
+      "category": "encouragement",
+      "domain": "musique",
+      "text": "Mets sur ton écran une scène de film, coupe le son, et compose pour elle dix minutes. Une contrainte précise vaut mieux qu'une inspiration qu'on attend."
+    },
+    {
+      "id": "l3-e-marche",
+      "category": "encouragement",
+      "domain": "apprentissage",
+      "text": "Bloqué sur un problème ? Marche dix minutes sans téléphone. Ton cerveau continue de travailler, et les idées viennent souvent en chemin."
+    },
+    {
+      "id": "l3-e-prevision-duree",
+      "category": "encouragement",
+      "domain": "apprentissage",
+      "text": "Note la durée que tu prévois pour ta prochaine tâche, puis la durée réelle. Après quelques essais, tu sauras de combien corriger tes estimations, et tes délais deviendront crédibles."
+    },
+    {
+      "id": "l3-e-savoir-refuser",
+      "category": "encouragement",
+      "domain": "entreprise",
+      "text": "Dire non à un projet qui ne te ressemble pas, c'est aussi construire We Make Waves. Ce que tu refuses aujourd'hui libère le temps pour ce que tu veux vraiment faire."
+    },
+    {
+      "id": "l3-e-court-metrage",
+      "category": "encouragement",
+      "domain": "reves",
+      "text": "Tes premières musiques de film seront peut-être pour un court métrage d'étudiant. Ce n'est pas un détour : c'est le début. Contacte aujourd'hui un seul réalisateur."
+    }
+  ]
+}
