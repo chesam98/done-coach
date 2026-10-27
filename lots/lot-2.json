@@ -1,0 +1,1081 @@
+{
+ "version": 2,
+ "messages": [
+  {
+   "id": "l2-a-sabine-reverberation",
+   "category": "anecdote",
+   "domain": "acoustique",
+   "text": "En 1895, on demande au jeune physicien Wallace Sabine de sauver un amphithéâtre de Harvard où l'on ne comprend rien. La nuit, avec un tuyau d'orgue, un chronomètre et des coussins empruntés à un théâtre voisin, il mesure la durée de réverbération. Il en tire la formule qui fonde l'acoustique des salles."
+  },
+  {
+   "id": "l2-a-symphony-hall",
+   "category": "anecdote",
+   "domain": "acoustique",
+   "text": "Grâce à sa formule, Wallace Sabine conseille la construction du Symphony Hall de Boston, inauguré en 1900 : l'une des premières salles conçues à partir de calculs acoustiques. Elle compte encore parmi les meilleures du monde."
+  },
+  {
+   "id": "l2-a-chladni-germain",
+   "category": "anecdote",
+   "domain": "acoustique",
+   "text": "Ernst Chladni saupoudre de sable des plaques qu'il fait vibrer avec un archet : le sable dessine les lignes nodales. Napoléon lance un prix pour en donner la théorie ; c'est Sophie Germain, autodidacte, qui le remporte en 1816, après deux tentatives."
+  },
+  {
+   "id": "l2-a-germain-leblanc",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Les femmes n'étant pas admises à l'École polytechnique, Sophie Germain se procure les cours et envoie ses travaux à Lagrange sous le nom de « M. Le Blanc ». Impressionné, il veut rencontrer l'auteur, découvre une jeune femme, et devient son mentor."
+  },
+  {
+   "id": "l2-a-rayleigh-nil",
+   "category": "anecdote",
+   "domain": "acoustique",
+   "text": "Lord Rayleigh commence son traité « The Theory of Sound » lors d'une convalescence, sur un bateau qui remonte le Nil, au début des années 1870. Publié en 1877-1878, il reste une référence de l'acoustique."
+  },
+  {
+   "id": "l2-a-buys-ballot-doppler",
+   "category": "anecdote",
+   "domain": "acoustique",
+   "text": "En 1845, pour tester l'effet Doppler, Christophorus Buys Ballot installe des trompettistes dans un train entre Utrecht et Maarssen. Des musiciens à l'oreille absolue, postés le long de la voie, notent que la note monte à l'approche du train puis descend."
+  },
+  {
+   "id": "l2-a-scott-martinville",
+   "category": "anecdote",
+   "domain": "acoustique",
+   "text": "En 1860, Édouard-Léon Scott de Martinville trace sur du papier noirci les vibrations d'une voix chantant « Au clair de la lune ». Son phonautographe ne savait pas rejouer le son : il a fallu attendre 2008 pour que des chercheurs l'entendent."
+  },
+  {
+   "id": "l2-a-beranek-bbn",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "En 1948, l'acousticien Leo Beranek cofonde un petit bureau d'études en acoustique, Bolt Beranek and Newman. L'entreprise grandit au point de construire, en 1969, les premiers routeurs de l'ARPANET, l'ancêtre d'Internet."
+  },
+  {
+   "id": "l2-a-beranek-philharmonic",
+   "category": "anecdote",
+   "domain": "acoustique",
+   "text": "En 1962, le Philharmonic Hall de New York, dont Leo Beranek est l'acousticien, ouvre sous les critiques : le son y est sec et terne. La salle sera remaniée plusieurs fois, jusqu'à sa refonte complète en 2022. Beranek, lui, continue et devient une référence mondiale : un échec public n'est pas une fin."
+  },
+  {
+   "id": "l2-a-elbphilharmonie",
+   "category": "anecdote",
+   "domain": "acoustique",
+   "text": "Pour l'Elbphilharmonie de Hambourg, inaugurée en 2017, l'acousticien Yasuhisa Toyota fait tester une maquette au dixième. La grande salle est tapissée d'environ 10 000 panneaux de plâtre, chacun sculpté d'un motif unique calculé pour diffuser le son."
+  },
+  {
+   "id": "l2-a-cage-anechoique",
+   "category": "anecdote",
+   "domain": "musique",
+   "text": "En 1951, John Cage entre dans la chambre anéchoïque de Harvard pour entendre le silence absolu. Il entend deux sons : l'un aigu, l'autre grave, son système nerveux et sa circulation sanguine, lui explique-t-on. Un an plus tard, il crée 4′33″."
+  },
+  {
+   "id": "l2-a-bose",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "En 1956, l'étudiant du MIT Amar Bose s'achète une chaîne hi-fi et la trouve décevante malgré ses bonnes mesures. Il étudie la perception du son dans une salle, et fonde son entreprise en 1964 à partir de ces recherches."
+  },
+  {
+   "id": "l2-a-dolby",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "En 1965, l'ingénieur Ray Dolby fonde à Londres une petite société pour réduire le souffle des bandes magnétiques. Sa réduction de bruit gagne les studios d'enregistrement, puis les cassettes et le cinéma."
+  },
+  {
+   "id": "l2-a-williams-jaws",
+   "category": "anecdote",
+   "domain": "musique",
+   "text": "Quand John Williams joue au piano son thème des « Dents de la mer », deux notes répétées, Steven Spielberg croit d'abord à une plaisanterie. Ce motif minimal devient l'un des plus célèbres du cinéma et vaut un Oscar à Williams en 1976."
+  },
+  {
+   "id": "l2-a-herrmann-psycho",
+   "category": "anecdote",
+   "domain": "musique",
+   "text": "Hitchcock voulait la scène de la douche de « Psychose » sans musique. Bernard Herrmann écrit quand même ses violons stridents et les lui fait écouter : Hitchcock change d'avis. La scène est devenue indissociable de cette musique."
+  },
+  {
+   "id": "l2-a-morricone-savio",
+   "category": "anecdote",
+   "domain": "musique",
+   "text": "Pour « Pour une poignée de dollars » (1964), Ennio Morricone est crédité sous le pseudonyme de Dan Savio. Il recevra un Oscar d'honneur en 2007, puis son premier Oscar de la meilleure musique en 2016, à 87 ans, pour « Les Huit Salopards »."
+  },
+  {
+   "id": "l2-a-zimmer-jingles",
+   "category": "anecdote",
+   "domain": "musique",
+   "text": "Hans Zimmer, sans formation musicale classique, commence par des jingles publicitaires et comme assistant du compositeur Stanley Myers à Londres. En 1995, il obtient l'Oscar pour « Le Roi lion »."
+  },
+  {
+   "id": "l2-a-gudnadottir-joker",
+   "category": "anecdote",
+   "domain": "musique",
+   "text": "Hildur Guðnadóttir compose une partie de la musique de « Joker » en lisant le scénario, avant le tournage. Sur le plateau, Joaquin Phoenix improvise la scène de danse de la salle de bains sur sa musique. Elle reçoit l'Oscar en 2020."
+  },
+  {
+   "id": "l2-a-steiner-kong",
+   "category": "anecdote",
+   "domain": "musique",
+   "text": "Pour « King Kong » en 1933, Max Steiner écrit une partition symphonique complète qui suit l'action de près, à une époque où beaucoup de films parlants se passaient de musique originale. Il montre ce qu'une bande originale peut apporter au récit."
+  },
+  {
+   "id": "l2-q-kelvin-mesurer",
+   "category": "citation",
+   "domain": "science",
+   "text": "Quand vous pouvez mesurer ce dont vous parlez et l'exprimer en nombres, vous en savez quelque chose.",
+   "author": "Lord Kelvin",
+   "source": "Conférence « Electrical Units of Measurement », 3 mai 1883"
+  },
+  {
+   "id": "l2-q-poincare-intuition",
+   "category": "citation",
+   "domain": "science",
+   "text": "C'est par la logique qu'on démontre, c'est par l'intuition qu'on invente.",
+   "author": "Henri Poincaré",
+   "source": "Science et méthode (1908)"
+  },
+  {
+   "id": "l2-q-curie-reste-a-faire",
+   "category": "citation",
+   "domain": "science",
+   "text": "On ne fait jamais attention à ce qui a été fait ; on ne voit que ce qui reste à faire.",
+   "author": "Marie Curie",
+   "source": "Lettre à son frère Józef, 18 mars 1894, citée par Ève Curie"
+  },
+  {
+   "id": "l2-q-buffon-patience",
+   "category": "citation",
+   "domain": "science",
+   "text": "Le génie n'est qu'une plus grande aptitude à la patience.",
+   "author": "Buffon",
+   "source": "Rapporté par Hérault de Séchelles, Voyage à Montbard (1785)"
+  },
+  {
+   "id": "l2-q-stravinsky-libre",
+   "category": "citation",
+   "domain": "musique",
+   "text": "L'art est d'autant plus libre qu'il est plus contrôlé, plus limité, plus travaillé.",
+   "author": "Igor Stravinsky",
+   "source": "Poétique musicale (1942)"
+  },
+  {
+   "id": "l2-q-tchaikovski-inspiration",
+   "category": "citation",
+   "domain": "musique",
+   "text": "L'inspiration est une invitée qui ne rend pas volontiers visite aux paresseux.",
+   "author": "Piotr Ilitch Tchaïkovski",
+   "source": "Lettre à Nadejda von Meck, 1878"
+  },
+  {
+   "id": "l2-q-bernstein-reponse",
+   "category": "citation",
+   "domain": "musique",
+   "text": "Ce sera notre réponse à la violence : faire de la musique plus intensément, plus magnifiquement, avec plus de dévouement que jamais.",
+   "author": "Leonard Bernstein",
+   "source": "Discours du 25 novembre 1963, après l'assassinat de J. F. Kennedy"
+  },
+  {
+   "id": "l2-q-hugo-musique",
+   "category": "citation",
+   "domain": "musique",
+   "text": "La musique exprime ce qui ne peut être dit et sur quoi il est impossible de rester silencieux.",
+   "author": "Victor Hugo",
+   "source": "William Shakespeare (1864)"
+  },
+  {
+   "id": "l2-q-nietzsche-musique",
+   "category": "citation",
+   "domain": "musique",
+   "text": "Sans la musique, la vie serait une erreur.",
+   "author": "Friedrich Nietzsche",
+   "source": "Crépuscule des idoles (1888), « Maximes et pointes », 33"
+  },
+  {
+   "id": "l2-q-beethoven-art",
+   "category": "citation",
+   "domain": "musique",
+   "text": "C'est l'art, et lui seul, qui m'a retenu.",
+   "author": "Ludwig van Beethoven",
+   "source": "Testament de Heiligenstadt, 6 octobre 1802"
+  },
+  {
+   "id": "l2-q-graham-want",
+   "category": "citation",
+   "domain": "entreprise",
+   "text": "Faites quelque chose que les gens veulent.",
+   "author": "Paul Graham",
+   "source": "Devise de Y Combinator, reprise dans ses essais"
+  },
+  {
+   "id": "l2-q-graham-scale",
+   "category": "citation",
+   "domain": "entreprise",
+   "text": "Faites des choses qui ne passent pas à l'échelle.",
+   "author": "Paul Graham",
+   "source": "Essai « Do Things that Don't Scale » (2013)"
+  },
+  {
+   "id": "l2-q-blank-clients",
+   "category": "citation",
+   "domain": "entreprise",
+   "text": "Aucun business plan ne survit au premier contact avec les clients.",
+   "author": "Steve Blank",
+   "source": "Ses conférences et son blog, d'après le mot de Moltke sur les plans de bataille"
+  },
+  {
+   "id": "l2-q-thoreau-reves",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Si l'on avance avec assurance dans la direction de ses rêves et qu'on s'efforce de vivre la vie qu'on a imaginée, on rencontre un succès inattendu.",
+   "author": "Henry David Thoreau",
+   "source": "Walden (1854), conclusion"
+  },
+  {
+   "id": "l2-q-hughes-reves",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Accroche-toi à tes rêves : si les rêves meurent, la vie est un oiseau aux ailes brisées qui ne peut plus voler.",
+   "author": "Langston Hughes",
+   "source": "Poème « Dreams » (1923)"
+  },
+  {
+   "id": "l2-q-laotseu-petit",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Les choses difficiles commencent toujours par ce qui est facile ; les grandes choses commencent toujours par ce qui est petit.",
+   "author": "Lao-tseu",
+   "source": "Tao-tö-king, chapitre 63"
+  },
+  {
+   "id": "l2-q-epictete-paraitre-sot",
+   "category": "citation",
+   "domain": "apprentissage",
+   "text": "Si tu veux progresser, accepte de passer pour un sot.",
+   "author": "Épictète",
+   "source": "Manuel, 13"
+  },
+  {
+   "id": "l2-q-plutarque-feu",
+   "category": "citation",
+   "domain": "apprentissage",
+   "text": "L'esprit n'a pas besoin, comme un vase, d'être rempli ; il a besoin, comme le bois, d'être allumé.",
+   "author": "Plutarque",
+   "source": "Œuvres morales, « Comment il faut écouter », 18"
+  },
+  {
+   "id": "l2-a-ebbinghaus",
+   "category": "anecdote",
+   "domain": "apprentissage",
+   "text": "En 1885, Hermann Ebbinghaus apprend lui-même des milliers de syllabes sans sens et mesure ce qu'il oublie : l'essentiel part en quelques jours. Mais des révisions espacées dans le temps ralentissent nettement l'oubli. Révise un peu, souvent, plutôt que tout la veille."
+  },
+  {
+   "id": "l2-a-test-effect",
+   "category": "anecdote",
+   "domain": "apprentissage",
+   "text": "En 2006, Roediger et Karpicke comparent deux méthodes : relire un texte, ou essayer de s'en souvenir sans le regarder. Une semaine plus tard, ceux qui s'étaient testés retiennent nettement mieux. Ferme le cours et récite : c'est plus dur, et c'est ce qui marche."
+  },
+  {
+   "id": "l2-a-illusion-fluidite",
+   "category": "anecdote",
+   "domain": "apprentissage",
+   "text": "Biais d'apprentissage : relire donne une impression de maîtrise, car le texte paraît familier. Les études montrent pourtant que les étudiants surestiment ce qu'ils retiennent en relisant. Familier ne veut pas dire su : vérifie-toi."
+  },
+  {
+   "id": "l2-a-planification",
+   "category": "anecdote",
+   "domain": "apprentissage",
+   "text": "Biais de planification : en 1994, des étudiants estiment finir leur mémoire en 34 jours en moyenne ; il leur en faut 56. Nous imaginons le meilleur scénario. Pour un projet, prévois une marge, ou base-toi sur la durée réelle de projets semblables."
+  },
+  {
+   "id": "l2-a-dunning-kruger",
+   "category": "anecdote",
+   "domain": "apprentissage",
+   "text": "En 1999, David Dunning et Justin Kruger montrent que les débutants surestiment souvent leur niveau, faute de savoir repérer leurs propres erreurs. Plus on apprend, mieux on voit ce qui manque : douter de soi est parfois un signe de progrès."
+  },
+  {
+   "id": "l2-a-intentions-mise-en-oeuvre",
+   "category": "anecdote",
+   "domain": "reves",
+   "text": "Le psychologue Peter Gollwitzer a montré qu'un plan « si… alors… » augmente nettement les chances de passer à l'acte : « Si j'ai fini mon café, alors j'ouvre la session de composition. » Un rêve a besoin d'un déclencheur précis."
+  },
+  {
+   "id": "l2-a-oettingen-woop",
+   "category": "anecdote",
+   "domain": "reves",
+   "text": "Gabriele Oettingen a observé que rêver seulement du résultat peut réduire l'énergie pour l'atteindre. Ce qui aide : imaginer le but, puis l'obstacle principal, puis le plan pour le franchir. Rêve, mais regarde aussi l'obstacle en face."
+  },
+  {
+   "id": "l2-a-entrelacement",
+   "category": "anecdote",
+   "domain": "apprentissage",
+   "text": "En 2008, Kornell et Bjork font apprendre le style de peintres soit par blocs (tous les tableaux d'un peintre, puis du suivant), soit mélangés. Le mélange donne de meilleurs résultats, alors que les participants pensent l'inverse. Alterne les exercices."
+  },
+  {
+   "id": "l2-a-ericsson-pratique",
+   "category": "anecdote",
+   "domain": "apprentissage",
+   "text": "En 1993, Anders Ericsson étudie des violonistes d'une école de musique de Berlin : les meilleurs ont accumulé beaucoup plus d'heures de pratique délibérée, seuls, sur leurs points faibles. Jouer ce qu'on sait déjà fait moins progresser que travailler ce qu'on rate."
+  },
+  {
+   "id": "l2-a-cout-irrecuperable",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Biais des coûts irrécupérables : on continue un projet parce qu'on y a déjà mis beaucoup de temps ou d'argent. Pour décider, ne regarde que l'avenir : si tu commençais aujourd'hui, choisirais-tu encore cette voie ?"
+  },
+  {
+   "id": "l2-e-wmw-une-brique",
+   "category": "encouragement",
+   "domain": "entreprise",
+   "text": "We Make Waves ne se construira pas en un jour, mais chaque séance en pose une brique. Celle d'aujourd'hui compte."
+  },
+  {
+   "id": "l2-e-oreille",
+   "category": "encouragement",
+   "domain": "musique",
+   "text": "Une bonne oreille, ça se travaille comme un muscle. Dix minutes d'écoute attentive valent mieux qu'une heure en fond sonore."
+  },
+  {
+   "id": "l2-e-mesure-avant",
+   "category": "encouragement",
+   "domain": "acoustique",
+   "text": "En acoustique comme en projet : mesure avant de corriger. Qu'est-ce qui coince vraiment, là, maintenant ?"
+  },
+  {
+   "id": "l2-e-premier-jet",
+   "category": "encouragement",
+   "domain": "musique",
+   "text": "Un premier jet de musique n'a pas besoin d'être bon : il a besoin d'exister. L'orchestration viendra après."
+  },
+  {
+   "id": "l2-e-recite",
+   "category": "encouragement",
+   "domain": "apprentissage",
+   "text": "Avant de relire, ferme tout et note ce dont tu te souviens. Ce petit effort vaut trois relectures."
+  },
+  {
+   "id": "l2-e-reve-date",
+   "category": "encouragement",
+   "domain": "reves",
+   "text": "Un rêve devient un projet le jour où il a une date, et une habitude le jour où il a une heure."
+  },
+  {
+   "id": "l2-e-client",
+   "category": "encouragement",
+   "domain": "entreprise",
+   "text": "Une entreprise, c'est d'abord quelqu'un qui a un problème. Qui sera le premier client de We Make Waves, et que lui faut-il ?"
+  },
+  {
+   "id": "l2-e-difficile",
+   "category": "encouragement",
+   "domain": "apprentissage",
+   "text": "Si c'est difficile, c'est souvent que tu apprends vraiment. Reste encore cinq minutes avec le problème."
+  },
+  {
+   "id": "q-pasteur-hasard",
+   "category": "citation",
+   "domain": "science",
+   "text": "Dans les champs de l'observation, le hasard ne favorise que les esprits préparés.",
+   "author": "Louis Pasteur",
+   "source": "Discours à la faculté des sciences de Lille, 7 décembre 1854"
+  },
+  {
+   "id": "q-newton-geants",
+   "category": "citation",
+   "domain": "science",
+   "text": "Si j'ai vu plus loin, c'est en me tenant sur les épaules de géants.",
+   "author": "Isaac Newton",
+   "source": "Lettre à Robert Hooke, 5 février 1676"
+  },
+  {
+   "id": "q-curie-perseverance",
+   "category": "citation",
+   "domain": "science",
+   "text": "La vie n'est facile pour aucun de nous. Mais quoi, il faut avoir de la persévérance, et surtout de la confiance en soi.",
+   "author": "Marie Curie",
+   "source": "Lettre citée par Ève Curie, « Madame Curie » (1938)"
+  },
+  {
+   "id": "q-curie-beaute",
+   "category": "citation",
+   "domain": "science",
+   "text": "Je suis de ceux qui pensent que la science a une grande beauté.",
+   "author": "Marie Curie",
+   "source": "Conférence « L'avenir de la culture », Madrid, 1933"
+  },
+  {
+   "id": "q-pierre-curie-reve",
+   "category": "citation",
+   "domain": "science",
+   "text": "Ce serait une belle chose de passer la vie l'un près de l'autre, hypnotisés dans nos rêves : votre rêve patriotique, notre rêve humanitaire et notre rêve scientifique.",
+   "author": "Pierre Curie",
+   "source": "Lettre à Marie Skłodowska, 10 août 1894"
+  },
+  {
+   "id": "q-edison-transpiration",
+   "category": "citation",
+   "domain": "invention",
+   "text": "Le génie, c'est 1 % d'inspiration et 99 % de transpiration.",
+   "author": "Thomas Edison",
+   "source": "Propos rapportés dans Harper's Monthly, septembre 1932"
+  },
+  {
+   "id": "q-einstein-velo",
+   "category": "citation",
+   "domain": "science",
+   "text": "La vie, c'est comme une bicyclette : il faut avancer pour ne pas perdre l'équilibre.",
+   "author": "Albert Einstein",
+   "source": "Lettre à son fils Eduard, 5 février 1930"
+  },
+  {
+   "id": "q-einstein-imagination",
+   "category": "citation",
+   "domain": "science",
+   "text": "L'imagination est plus importante que le savoir.",
+   "author": "Albert Einstein",
+   "source": "Entretien avec George Sylvester Viereck, The Saturday Evening Post, 26 octobre 1929"
+  },
+  {
+   "id": "q-feynman-tromper",
+   "category": "citation",
+   "domain": "science",
+   "text": "Le premier principe, c'est de ne pas se tromper soi-même — et c'est soi-même qu'on trompe le plus facilement.",
+   "author": "Richard Feynman",
+   "source": "Discours « Cargo Cult Science », Caltech, 1974"
+  },
+  {
+   "id": "q-feynman-creer",
+   "category": "citation",
+   "domain": "science",
+   "text": "Ce que je ne peux pas créer, je ne le comprends pas.",
+   "author": "Richard Feynman",
+   "source": "Écrit sur son tableau noir à Caltech, 1988"
+  },
+  {
+   "id": "q-franklin-science",
+   "category": "citation",
+   "domain": "science",
+   "text": "La science et la vie de tous les jours ne peuvent pas et ne doivent pas être séparées.",
+   "author": "Rosalind Franklin",
+   "source": "Lettre à son père, vers 1940"
+  },
+  {
+   "id": "q-descartes-diviser",
+   "category": "citation",
+   "domain": "apprentissage",
+   "text": "Diviser chacune des difficultés que j'examinerais en autant de parcelles qu'il se pourrait, et qu'il serait requis pour les mieux résoudre.",
+   "author": "René Descartes",
+   "source": "Discours de la méthode (1637), 2e partie"
+  },
+  {
+   "id": "q-seneque-ose",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles sont difficiles.",
+   "author": "Sénèque",
+   "source": "Lettres à Lucilius, 104"
+  },
+  {
+   "id": "q-seneque-port",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Quand on ne sait pas vers quel port on navigue, aucun vent n'est le bon.",
+   "author": "Sénèque",
+   "source": "Lettres à Lucilius, 71"
+  },
+  {
+   "id": "q-seneque-differe",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Pendant qu'on la remet à plus tard, la vie passe.",
+   "author": "Sénèque",
+   "source": "Lettres à Lucilius, 1"
+  },
+  {
+   "id": "q-marc-aurele-obstacle",
+   "category": "citation",
+   "domain": "reves",
+   "text": "L'obstacle à l'action fait avancer l'action. Ce qui se tient en travers du chemin devient le chemin.",
+   "author": "Marc Aurèle",
+   "source": "Pensées pour moi-même, V, 20"
+  },
+  {
+   "id": "q-aristote-faisant",
+   "category": "citation",
+   "domain": "apprentissage",
+   "text": "Les choses qu'il faut avoir apprises pour les faire, c'est en les faisant que nous les apprenons.",
+   "author": "Aristote",
+   "source": "Éthique à Nicomaque, II, 1"
+  },
+  {
+   "id": "q-durant-habitude",
+   "category": "citation",
+   "domain": "apprentissage",
+   "text": "Nous sommes ce que nous faisons de manière répétée. L'excellence n'est donc pas un acte, mais une habitude.",
+   "author": "Will Durant",
+   "source": "Résumant Aristote, « The Story of Philosophy » (1926)"
+  },
+  {
+   "id": "q-laozi-pas",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Un voyage de mille lieues commence par un premier pas.",
+   "author": "Lao-tseu",
+   "source": "Tao-tö-king, chapitre 64"
+  },
+  {
+   "id": "q-horace-moitie",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Qui a commencé a fait la moitié du travail.",
+   "author": "Horace",
+   "source": "Épîtres, I, 2"
+  },
+  {
+   "id": "q-hippocrate-art",
+   "category": "citation",
+   "domain": "science",
+   "text": "La vie est courte, l'art est long.",
+   "author": "Hippocrate",
+   "source": "Aphorismes, I, 1"
+  },
+  {
+   "id": "q-boileau-metier",
+   "category": "citation",
+   "domain": "apprentissage",
+   "text": "Vingt fois sur le métier remettez votre ouvrage : polissez-le sans cesse et le repolissez.",
+   "author": "Nicolas Boileau",
+   "source": "L'Art poétique (1674), chant I"
+  },
+  {
+   "id": "q-saintex-perfection",
+   "category": "citation",
+   "domain": "entreprise",
+   "text": "La perfection est atteinte, non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher.",
+   "author": "Antoine de Saint-Exupéry",
+   "source": "Terre des hommes (1939)"
+  },
+  {
+   "id": "q-saintex-avenir",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Pour ce qui est de l'avenir, il ne s'agit pas de le prévoir, mais de le rendre possible.",
+   "author": "Antoine de Saint-Exupéry",
+   "source": "Citadelle (1948)"
+  },
+  {
+   "id": "q-vangogh-petites",
+   "category": "citation",
+   "domain": "reves",
+   "text": "Les grandes choses ne se font pas par impulsion, mais par une série de petites choses assemblées.",
+   "author": "Vincent van Gogh",
+   "source": "Lettre à Théo, 22 octobre 1882"
+  },
+  {
+   "id": "q-jobs-aimer",
+   "category": "citation",
+   "domain": "entreprise",
+   "text": "La seule façon de faire du bon travail, c'est d'aimer ce que vous faites.",
+   "author": "Steve Jobs",
+   "source": "Discours à l'université Stanford, 12 juin 2005"
+  },
+  {
+   "id": "q-jobs-points",
+   "category": "citation",
+   "domain": "entreprise",
+   "text": "On ne peut pas relier les points en regardant vers l'avant ; on ne peut les relier qu'en regardant en arrière.",
+   "author": "Steve Jobs",
+   "source": "Discours à l'université Stanford, 12 juin 2005"
+  },
+  {
+   "id": "q-jobs-ship",
+   "category": "citation",
+   "domain": "entreprise",
+   "text": "Les vrais artistes livrent.",
+   "author": "Steve Jobs",
+   "source": "Réunion de l'équipe Macintosh, 1983, rapporté par Andy Hertzfeld"
+  },
+  {
+   "id": "q-hoffman-gene",
+   "category": "citation",
+   "domain": "entreprise",
+   "text": "Si tu n'as pas honte de la première version de ton produit, c'est que tu l'as lancé trop tard.",
+   "author": "Reid Hoffman",
+   "source": "Propos répétés dans ses conférences et son blog"
+  },
+  {
+   "id": "q-kay-inventer",
+   "category": "citation",
+   "domain": "invention",
+   "text": "La meilleure façon de prédire l'avenir, c'est de l'inventer.",
+   "author": "Alan Kay",
+   "source": "Réunion au Xerox PARC, 1971"
+  },
+  {
+   "id": "q-hopper-pardon",
+   "category": "citation",
+   "domain": "invention",
+   "text": "Il est plus facile de demander pardon que d'obtenir la permission.",
+   "author": "Grace Hopper",
+   "source": "Entretien, Chips Ahoy (magazine de la Navy), 1986"
+  },
+  {
+   "id": "q-torvalds-code",
+   "category": "citation",
+   "domain": "invention",
+   "text": "Parler ne coûte rien. Montre-moi le code.",
+   "author": "Linus Torvalds",
+   "source": "Liste de diffusion du noyau Linux, 25 août 2000"
+  },
+  {
+   "id": "q-kennedy-difficile",
+   "category": "citation",
+   "domain": "science",
+   "text": "Nous choisissons d'aller sur la Lune, non pas parce que c'est facile, mais parce que c'est difficile.",
+   "author": "John F. Kennedy",
+   "source": "Discours à l'université Rice, 12 septembre 1962"
+  },
+  {
+   "id": "q-armstrong-pas",
+   "category": "citation",
+   "domain": "science",
+   "text": "C'est un petit pas pour un homme, un bond de géant pour l'humanité.",
+   "author": "Neil Armstrong",
+   "source": "Sur la Lune, 21 juillet 1969"
+  },
+  {
+   "id": "a-curie-hangar",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Marie et Pierre Curie ont isolé le radium dans un hangar mal chauffé de la rue Lhomond, à Paris. Il a fallu traiter des tonnes de pechblende pour obtenir, en 1902, un décigramme de chlorure de radium."
+  },
+  {
+   "id": "a-curie-deux-nobel",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Marie Curie est la première personne à avoir reçu deux prix Nobel : physique en 1903, chimie en 1911. Elle reste la seule à avoir été récompensée dans deux sciences différentes."
+  },
+  {
+   "id": "a-kariko",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "En 1995, Katalin Karikó est rétrogradée à l'université de Pennsylvanie : ses demandes de financement sur l'ARN messager sont refusées les unes après les autres. Elle continue avec Drew Weissman ; leurs travaux rendent possibles les vaccins à ARNm et leur valent le prix Nobel en 2023."
+  },
+  {
+   "id": "a-edison-filament",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "Pour l'ampoule, l'équipe d'Edison a testé des milliers de matériaux avant de retenir, en 1880, un filament de bambou carbonisé. Edison a déposé 1 093 brevets aux États-Unis au cours de sa vie."
+  },
+  {
+   "id": "a-edison-incendie",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "En décembre 1914, un incendie ravage l'usine d'Edison à West Orange. Il a 67 ans ; la production repart en quelques semaines. Selon son fils Charles, il aurait dit que le désastre avait au moins brûlé toutes leurs erreurs."
+  },
+  {
+   "id": "a-wright-soufflerie",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "Les frères Wright, réparateurs de vélos à Dayton, ont construit en 1901 leur propre soufflerie et y ont testé environ 200 formes d'ailes. Le 17 décembre 1903, leur premier vol motorisé dure 12 secondes et couvre 36 mètres."
+  },
+  {
+   "id": "a-dyson-5127",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "James Dyson a fabriqué 5 127 prototypes en cinq ans avant de mettre au point son aspirateur sans sac. Aucun fabricant n'en a voulu : il a fini par le produire lui-même, et le DC01 sort en 1993."
+  },
+  {
+   "id": "a-blakely",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Sara Blakely vendait des fax au porte-à-porte quand elle a lancé Spanx en 2000, avec 5 000 dollars d'économies. Enfant, son père lui demandait chaque semaine : « Qu'est-ce que tu as raté cette semaine ? » — rater voulait dire avoir essayé."
+  },
+  {
+   "id": "a-einstein-1905",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "En 1905, Albert Einstein est expert technique de troisième classe à l'office des brevets de Berne. Cette année-là, il publie quatre articles qui bouleversent la physique, dont la relativité restreinte."
+  },
+  {
+   "id": "a-ramanujan",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Srinivasa Ramanujan, mathématicien largement autodidacte, envoie en 1913 une lettre remplie de théorèmes au professeur G. H. Hardy, à Cambridge. Hardy le fait venir ; en 1918, Ramanujan est élu à la Royal Society."
+  },
+  {
+   "id": "a-franklin-photo51",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "En mai 1952, au King's College de Londres, Rosalind Franklin et son étudiant Raymond Gosling obtiennent le « cliché 51 », une image de diffraction de l'ADN. Elle a joué un rôle clé dans la découverte de sa structure en double hélice."
+  },
+  {
+   "id": "a-johnson-glenn",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Avant son vol orbital de février 1962, l'astronaute John Glenn demande que la mathématicienne Katherine Johnson vérifie à la main les calculs de trajectoire de l'ordinateur. Il ne partira qu'avec son accord."
+  },
+  {
+   "id": "a-fleming",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "En septembre 1928, au retour de vacances, Alexander Fleming remarque qu'une moisissure a tué les bactéries d'une de ses boîtes de culture. Au lieu de la jeter, il l'étudie : c'est la découverte de la pénicilline."
+  },
+  {
+   "id": "a-levi-montalcini",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Pendant la Seconde Guerre mondiale, exclue de l'université par les lois antijuives, Rita Levi-Montalcini installe un laboratoire dans sa chambre à Turin et y étudie des embryons de poulet. Ses recherches mèneront au facteur de croissance nerveuse et au prix Nobel en 1986."
+  },
+  {
+   "id": "a-mcclintock",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Barbara McClintock découvre à la fin des années 1940 que des gènes peuvent changer de place sur les chromosomes. L'idée est longtemps accueillie avec scepticisme ; elle reçoit seule le prix Nobel de médecine en 1983."
+  },
+  {
+   "id": "a-tu-youyou",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Pour trouver un remède au paludisme, Tu Youyou a fouillé des textes médicaux chinois anciens. Un texte du IVe siècle lui a donné l'idée d'une extraction à basse température : l'artémisinine est née, et elle reçoit le prix Nobel en 2015."
+  },
+  {
+   "id": "a-crispr",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "En 2012, Emmanuelle Charpentier et Jennifer Doudna publient le principe des « ciseaux génétiques » CRISPR-Cas9. En 2020, elles sont les premières femmes à partager seules un prix Nobel scientifique."
+  },
+  {
+   "id": "a-wiles",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Andrew Wiles a travaillé sept ans, presque en secret, sur le dernier théorème de Fermat. En 1993, on découvre une faille dans sa preuve ; il s'acharne encore un an et la corrige en septembre 1994."
+  },
+  {
+   "id": "a-mirzakhani",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Maryam Mirzakhani travaillait souvent sur d'immenses feuilles étalées par terre, couvertes de dessins ; sa fille disait que sa mère « peignait ». En 2014, elle devient la première femme à recevoir la médaille Fields."
+  },
+  {
+   "id": "a-lamarr",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "En 1942, l'actrice Hedy Lamarr dépose avec le compositeur George Antheil un brevet de saut de fréquence pour guider des torpilles. Ce principe se retrouve aujourd'hui dans des technologies sans fil."
+  },
+  {
+   "id": "a-jobs-retour",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "En 1985, Steve Jobs est écarté d'Apple, l'entreprise qu'il a cofondée. Il lance NeXT et rachète ce qui deviendra Pixar ; en 1997, Apple rachète NeXT et il revient à sa tête."
+  },
+  {
+   "id": "a-disney-oswald",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "En 1928, Walt Disney perd les droits de son personnage vedette, Oswald le lapin chanceux, au profit de son distributeur. La même année, il crée un nouveau personnage : Mickey Mouse."
+  },
+  {
+   "id": "a-schultz-242",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Pour financer son projet de cafés, Howard Schultz a rencontré 242 investisseurs potentiels ; 217 ont refusé. Il a racheté Starbucks en 1987."
+  },
+  {
+   "id": "a-airbnb-cereales",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "En 2008, à court d'argent, les fondateurs d'Airbnb vendent des boîtes de céréales décorées aux couleurs des candidats à la présidentielle américaine. Ils en tirent environ 30 000 dollars, de quoi tenir jusqu'à leurs premiers investisseurs."
+  },
+  {
+   "id": "a-sanders",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Le colonel Sanders avait plus de 60 ans quand il a commencé à vendre sa recette de poulet en franchise, après le déclin de son restaurant. Le premier franchisé KFC ouvre en 1952."
+  },
+  {
+   "id": "a-ford-echecs",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Avant la Ford Motor Company, fondée en 1903, Henry Ford avait déjà connu deux entreprises automobiles qui n'avaient pas marché. La troisième a été la bonne."
+  },
+  {
+   "id": "a-acton",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "En 2009, Brian Acton est refusé à l'embauche par Twitter puis par Facebook. La même année, il cofonde WhatsApp, que Facebook rachète en 2014 pour 19 milliards de dollars."
+  },
+  {
+   "id": "a-postit",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "En 1968, Spencer Silver, chimiste chez 3M, met au point une colle qui colle mal. Six ans plus tard, son collègue Art Fry s'en sert pour faire des marque-pages qui ne tombent pas : le Post-it sort en 1980."
+  },
+  {
+   "id": "a-spencer-microondes",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "En 1945, l'ingénieur Percy Spencer remarque qu'une barre chocolatée a fondu dans sa poche près d'un magnétron. Il fait des essais avec du maïs à pop-corn, puis dépose le brevet du four à micro-ondes."
+  },
+  {
+   "id": "a-velcro",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "En 1941, après une promenade, George de Mestral observe au microscope les fleurs de bardane accrochées à son chien. Il en tire un système à crochets et boucles : le Velcro, breveté au début des années 1950."
+  },
+  {
+   "id": "a-braille",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "Aveugle depuis l'enfance, Louis Braille met au point à 15 ans, en 1824, un système d'écriture en points en relief. Il le publie en 1829 ; il est utilisé dans le monde entier."
+  },
+  {
+   "id": "a-farnsworth",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "À 14 ans, en labourant un champ ligne par ligne, Philo Farnsworth imagine d'analyser une image de la même manière. En 1927, il fait la démonstration de la première télévision entièrement électronique."
+  },
+  {
+   "id": "a-kwolek",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "En 1965, chez DuPont, Stephanie Kwolek obtient une solution trouble que d'autres auraient jetée. Elle insiste pour la faire filer : c'est le Kevlar, cinq fois plus résistant que l'acier à poids égal."
+  },
+  {
+   "id": "a-hamilton-apollo",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "Margaret Hamilton dirigeait l'équipe du logiciel de vol d'Apollo. Pendant l'alunissage d'Apollo 11, des alarmes surgissent : le logiciel abandonne les tâches secondaires pour garder l'essentiel, et Armstrong peut se poser."
+  },
+  {
+   "id": "a-hopper-compilateur",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "En 1952, Grace Hopper écrit l'un des premiers compilateurs. On lui répondait que les ordinateurs ne savaient faire que du calcul ; elle a prouvé qu'ils pouvaient traduire des instructions proches de l'anglais."
+  },
+  {
+   "id": "a-berners-lee",
+   "category": "anecdote",
+   "domain": "invention",
+   "text": "En mars 1989, Tim Berners-Lee propose au CERN un système de documents liés entre eux. Son chef, Mike Sendall, annote la proposition : « Vague, mais passionnant ». C'est le début du Web."
+  },
+  {
+   "id": "a-beethoven-9e",
+   "category": "anecdote",
+   "domain": "musique",
+   "text": "Beethoven était presque totalement sourd quand il a achevé sa Neuvième Symphonie, créée à Vienne en 1824. Selon les témoins, une chanteuse a dû le tourner vers le public pour qu'il voie les applaudissements."
+  },
+  {
+   "id": "a-apelle",
+   "category": "anecdote",
+   "domain": "apprentissage",
+   "text": "Selon Pline l'Ancien, le peintre grec Apelle ne laissait passer aucun jour sans tracer au moins une ligne. D'où la devise « Nulla dies sine linea » : pas un jour sans une ligne."
+  },
+  {
+   "id": "a-kepler",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Johannes Kepler a passé des années à calculer l'orbite de Mars, essai après essai, avant d'admettre qu'elle n'était pas un cercle mais une ellipse. Il publie ses lois en 1609."
+  },
+  {
+   "id": "a-darwin",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Charles Darwin a l'idée de la sélection naturelle en 1838, mais il accumule les preuves pendant plus de vingt ans. « L'Origine des espèces » paraît en 1859."
+  },
+  {
+   "id": "a-mendel",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "Entre 1856 et 1863, le moine Gregor Mendel cultive et observe près de 28 000 plants de pois. Ses lois de l'hérédité sont ignorées de son vivant et redécouvertes en 1900."
+  },
+  {
+   "id": "a-rubin",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "L'université de Princeton n'acceptait pas les femmes dans son programme d'astronomie quand Vera Rubin a voulu y étudier. Elle a continué ailleurs, et ses mesures de la rotation des galaxies ont apporté des preuves de la matière noire."
+  },
+  {
+   "id": "a-bell-burnell",
+   "category": "anecdote",
+   "domain": "science",
+   "text": "En 1967, l'étudiante Jocelyn Bell Burnell repère un minuscule signal régulier dans des centaines de mètres de relevés papier : le premier pulsar. En 2018, elle donne les 3 millions de dollars de son Breakthrough Prize pour financer des étudiants en physique."
+  },
+  {
+   "id": "a-walker",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Fille d'anciens esclaves, Madam C. J. Walker a créé une entreprise de produits capillaires au début du XXe siècle. Le Guinness la cite comme la première femme devenue millionnaire par elle-même aux États-Unis."
+  },
+  {
+   "id": "a-knight",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Au début des années 1960, Phil Knight vend des chaussures de course depuis le coffre de sa voiture, sur les pistes d'athlétisme. Son entreprise, Blue Ribbon Sports, deviendra Nike."
+  },
+  {
+   "id": "a-hp-garage",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "En 1939, Bill Hewlett et Dave Packard fondent HP dans un garage de Palo Alto. L'un de leurs premiers clients est Disney, qui achète huit oscillateurs audio pour le film « Fantasia »."
+  },
+  {
+   "id": "a-trafodata",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Avant Microsoft, Bill Gates et Paul Allen ont lancé Traf-O-Data, une machine pour analyser le trafic routier. Ce fut un échec commercial, mais l'expérience a servi à la suite."
+  },
+  {
+   "id": "a-rovio",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Avant Angry Birds, sorti en 2009, le studio finlandais Rovio avait développé plus de cinquante jeux. Angry Birds était le 52e."
+  },
+  {
+   "id": "a-slack",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Slack est né de l'échec d'un jeu vidéo en ligne, Glitch, fermé en 2012. L'équipe a gardé l'outil de messagerie qu'elle avait créé pour elle-même."
+  },
+  {
+   "id": "a-instagram",
+   "category": "anecdote",
+   "domain": "entreprise",
+   "text": "Instagram a commencé sous le nom de Burbn, une application de géolocalisation trop compliquée. Ses fondateurs ont tout retiré sauf les photos, et l'ont relancée en 2010."
+  },
+  {
+   "id": "e-cinq-minutes",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Lance-toi pour cinq minutes. Juste cinq. Le plus dur, c'est le démarrage."
+  },
+  {
+   "id": "e-une-chose",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Une seule chose à la fois. Le reste attendra la fin de la séance."
+  },
+  {
+   "id": "e-pas-parfait",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Pas besoin que ce soit parfait. Il faut que ce soit fait."
+  },
+  {
+   "id": "e-regularite",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "La régularité bat l'intensité. Une séance aujourd'hui vaut mieux que trois demain."
+  },
+  {
+   "id": "e-retard-ok",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "En retard ? Ce n'est pas une raison pour renoncer. Commence maintenant."
+  },
+  {
+   "id": "e-telephone",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Téléphone retourné, notifications coupées : tu viens de gagner la moitié de la bataille."
+  },
+  {
+   "id": "e-brouillon",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Un brouillon imparfait se corrige. Une page blanche, non."
+  },
+  {
+   "id": "e-motivation",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "La motivation arrive souvent après avoir commencé, pas avant."
+  },
+  {
+   "id": "e-petit-pas",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Découpe : quel est le plus petit pas que tu peux faire maintenant ?"
+  },
+  {
+   "id": "e-echec",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Une mauvaise séance reste une séance. Demain, tu fais mieux."
+  },
+  {
+   "id": "e-serie",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Ne casse pas la chaîne : un peu chaque jour, c'est ainsi que les grandes choses se construisent."
+  },
+  {
+   "id": "e-pause-meritee",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Tu as travaillé, tu as droit à ta pause. Reviens frais."
+  },
+  {
+   "id": "e-reve",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Tes rêves ne se réalisent pas en y pensant, mais en y travaillant un peu chaque jour."
+  },
+  {
+   "id": "e-honnete",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Sois honnête avec toi-même : qu'est-ce qui t'a freiné aujourd'hui ? Demain, enlève-le."
+  },
+  {
+   "id": "e-plus-tard",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "« Plus tard » est souvent le chemin le plus court vers « jamais »."
+  },
+  {
+   "id": "e-finir",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Terminer compte plus que commencer. Va jusqu'au bout de cette tâche."
+  },
+  {
+   "id": "e-distraction",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Une distraction ? Note-la et reviens. Elle peut attendre."
+  },
+  {
+   "id": "e-courage",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Le courage, c'est de s'y remettre après un mauvais jour."
+  },
+  {
+   "id": "e-constance",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Les gens qui réussissent ne sont pas plus motivés que toi. Ils sont plus constants."
+  },
+  {
+   "id": "e-soir",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Avant de dormir, prépare la première tâche de demain : le matin, tu n'auras plus qu'à commencer."
+  },
+  {
+   "id": "e-repos",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Bien dormir fait partie du travail. Ta concentration de demain se joue ce soir."
+  },
+  {
+   "id": "e-maintenant",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Le meilleur moment pour commencer, c'était à l'heure prévue. Le deuxième meilleur, c'est maintenant."
+  },
+  {
+   "id": "e-done",
+   "category": "encouragement",
+   "domain": "general",
+   "text": "Fait, c'est mieux que parfait. C'est pour ça que l'app s'appelle Done."
+  }
+ ]
+}
