@@ -1,0 +1,353 @@
+{
+  "version": 4,
+  "messages": [
+    {
+      "id": "l4-q-goethe-architecture",
+      "category": "citation",
+      "domain": "acoustique",
+      "text": "Je nomme l'architecture une musique figée.",
+      "author": "Johann Wolfgang von Goethe",
+      "source": "Eckermann, Conversations avec Goethe, 23 mars 1829 (« erstarrte Musik »)"
+    },
+    {
+      "id": "l4-q-newton-rivage",
+      "category": "citation",
+      "domain": "science",
+      "text": "Je n'ai été qu'un enfant jouant sur le rivage, trouvant de temps en temps un galet plus lisse ou un coquillage plus joli que les autres, tandis que le grand océan de la vérité s'étendait, inexploré, devant moi.",
+      "author": "Isaac Newton",
+      "source": "Propos rapportés par Joseph Spence (Anecdotes), repris par David Brewster, Memoirs of Sir Isaac Newton, 1855"
+    },
+    {
+      "id": "l4-q-einstein-mystere",
+      "category": "citation",
+      "domain": "science",
+      "text": "Le plus beau sentiment que nous puissions éprouver est celui du mystérieux.",
+      "author": "Albert Einstein",
+      "source": "« What I Believe », Forum and Century, octobre 1930"
+    },
+    {
+      "id": "l4-q-faraday-merveilleux",
+      "category": "citation",
+      "domain": "science",
+      "text": "Rien n'est trop merveilleux pour être vrai, s'il est compatible avec les lois de la nature.",
+      "author": "Michael Faraday",
+      "source": "Journal de laboratoire, 19 mars 1849 (cité par Bence Jones, Life and Letters of Faraday, 1870)"
+    },
+    {
+      "id": "l4-q-huxley-fait",
+      "category": "citation",
+      "domain": "science",
+      "text": "Assieds-toi devant le fait comme un petit enfant, prêt à abandonner toute idée préconçue.",
+      "author": "Thomas Henry Huxley",
+      "source": "Lettre à Charles Kingsley, 23 septembre 1860"
+    },
+    {
+      "id": "l4-q-hilbert-savoir",
+      "category": "citation",
+      "domain": "science",
+      "text": "Nous devons savoir, nous saurons.",
+      "author": "David Hilbert",
+      "source": "Discours de Königsberg, septembre 1930 (publié dans Naturwissenschaften, décembre 1930)"
+    },
+    {
+      "id": "l4-q-dijkstra-tests",
+      "category": "citation",
+      "domain": "science",
+      "text": "Les tests peuvent montrer la présence de bogues, jamais leur absence.",
+      "author": "Edsger W. Dijkstra",
+      "source": "Notes on Structured Programming, 1970"
+    },
+    {
+      "id": "l4-q-bachelard-construit",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Rien ne va de soi. Rien n'est donné. Tout est construit.",
+      "author": "Gaston Bachelard",
+      "source": "La Formation de l'esprit scientifique, 1938"
+    },
+    {
+      "id": "l4-q-knuth-optimisation",
+      "category": "citation",
+      "domain": "science",
+      "text": "Nous devrions oublier les petites optimisations, disons dans 97 % des cas : l'optimisation prématurée est la racine de tout mal.",
+      "author": "Donald Knuth",
+      "source": "« Structured Programming with go to Statements », Computing Surveys, décembre 1974"
+    },
+    {
+      "id": "l4-q-pascal-chambre",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Tout le malheur des hommes vient d'une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.",
+      "author": "Blaise Pascal",
+      "source": "Pensées (posthume, 1670)"
+    },
+    {
+      "id": "l4-q-kant-sapere-aude",
+      "category": "citation",
+      "domain": "apprentissage",
+      "text": "Aie le courage de te servir de ton propre entendement.",
+      "author": "Emmanuel Kant",
+      "source": "« Qu'est-ce que les Lumières ? », 1784"
+    },
+    {
+      "id": "l4-q-graham-debrouillard",
+      "category": "citation",
+      "domain": "entreprise",
+      "text": "Un bon fondateur doit être infatigablement débrouillard.",
+      "author": "Paul Graham",
+      "source": "Essai « Relentlessly Resourceful », mars 2009"
+    },
+    {
+      "id": "l4-q-roosevelt-arene",
+      "category": "citation",
+      "domain": "entreprise",
+      "text": "Le mérite revient à celui qui se trouve réellement dans l'arène, le visage marqué par la poussière, la sueur et le sang.",
+      "author": "Theodore Roosevelt",
+      "source": "« Citizenship in a Republic », discours à la Sorbonne, 23 avril 1910"
+    },
+    {
+      "id": "l4-q-terence-audacieux",
+      "category": "citation",
+      "domain": "entreprise",
+      "text": "La fortune sourit aux audacieux.",
+      "author": "Térence",
+      "source": "Phormion, v. 203, 161 av. J.-C."
+    },
+    {
+      "id": "l4-q-lafontaine-patience",
+      "category": "citation",
+      "domain": "reves",
+      "text": "Patience et longueur de temps font plus que force ni que rage.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables, II, 11, « Le Lion et le Rat », 1668"
+    },
+    {
+      "id": "l4-q-ovide-goutte",
+      "category": "citation",
+      "domain": "reves",
+      "text": "La goutte creuse la pierre, non par sa force, mais en tombant souvent.",
+      "author": "Ovide",
+      "source": "Pontiques (Epistulae ex Ponto), IV, 10"
+    },
+    {
+      "id": "l4-q-virgile-labor",
+      "category": "citation",
+      "domain": "reves",
+      "text": "Un travail acharné vient à bout de tout.",
+      "author": "Virgile",
+      "source": "Géorgiques, I, v. 145-146, vers 29 av. J.-C."
+    },
+    {
+      "id": "l4-q-thoreau-chateaux",
+      "category": "citation",
+      "domain": "reves",
+      "text": "Si tu as bâti des châteaux en l'air, ton travail n'est pas perdu : c'est là qu'ils doivent être. Mets maintenant les fondations dessous.",
+      "author": "Henry David Thoreau",
+      "source": "Walden, 1854, chapitre « Conclusion »"
+    },
+    {
+      "id": "l4-q-eleanor-roosevelt-peur",
+      "category": "citation",
+      "domain": "reves",
+      "text": "Il faut faire la chose que l'on pense ne pas pouvoir faire.",
+      "author": "Eleanor Roosevelt",
+      "source": "You Learn by Living, 1960"
+    },
+    {
+      "id": "l4-q-beethoven-destin",
+      "category": "citation",
+      "domain": "musique",
+      "text": "Je veux saisir le destin à la gorge ; il ne me courbera certainement pas tout à fait.",
+      "author": "Ludwig van Beethoven",
+      "source": "Lettre à Franz Wegeler, Vienne, 16 novembre 1801"
+    },
+    {
+      "id": "l4-q-eno-erreur",
+      "category": "citation",
+      "domain": "musique",
+      "text": "Honore ton erreur comme une intention cachée.",
+      "author": "Brian Eno et Peter Schmidt",
+      "source": "Oblique Strategies (jeu de cartes), 1975"
+    },
+    {
+      "id": "l4-q-valery-vent",
+      "category": "citation",
+      "domain": "general",
+      "text": "Le vent se lève !… Il faut tenter de vivre !",
+      "author": "Paul Valéry",
+      "source": "Le Cimetière marin, 1920"
+    },
+    {
+      "id": "l4-q-montaigne-passage",
+      "category": "citation",
+      "domain": "general",
+      "text": "Je ne peins pas l'être, je peins le passage.",
+      "author": "Michel de Montaigne",
+      "source": "Essais, III, 2, « Du repentir »"
+    },
+    {
+      "id": "l4-q-voltaire-jardin",
+      "category": "citation",
+      "domain": "general",
+      "text": "Il faut cultiver notre jardin.",
+      "author": "Voltaire",
+      "source": "Candide, 1759, chapitre 30"
+    },
+    {
+      "id": "l4-a-albert-hall-soucoupes",
+      "category": "anecdote",
+      "domain": "acoustique",
+      "text": "Inauguré en 1871, le Royal Albert Hall de Londres était réputé pour son écho. En 1969, on suspend sous sa coupole de grands disques en fibre de verre, surnommés « soucoupes volantes », pour disperser les réflexions. L'écho s'est calmé sans disparaître complètement : une salle se corrige par essais et mesures successifs."
+    },
+    {
+      "id": "l4-a-haas-precedence",
+      "category": "anecdote",
+      "domain": "acoustique",
+      "text": "En 1949, dans sa thèse à Göttingen, Helmut Haas fait écouter de la parole sur deux haut-parleurs, le second diffusant le même son avec un léger retard. Tant que ce retard reste de quelques dizaines de millisecondes, l'auditeur croit n'entendre qu'une source, située du côté du premier haut-parleur. C'est l'effet de précédence, qui explique pourquoi les réflexions rapprochées d'une salle renforcent la parole au lieu de la brouiller."
+    },
+    {
+      "id": "l4-a-helmholtz-resonateurs",
+      "category": "anecdote",
+      "domain": "acoustique",
+      "text": "En 1863, dans « Die Lehre von den Tonempfindungen », Hermann von Helmholtz explique le timbre par les partiels d'un son et les isole avec des résonateurs : des sphères creuses en laiton, munies d'un petit col que l'on place contre l'oreille. Chacune ne réagit qu'à une fréquence précise. Ce principe sert encore aujourd'hui dans les absorbeurs acoustiques utilisés par les bureaux d'études."
+    },
+    {
+      "id": "l4-a-concertgebouw-1888",
+      "category": "anecdote",
+      "domain": "acoustique",
+      "text": "Le Concertgebouw d'Amsterdam ouvre en 1888, sept ans avant les travaux de Wallace Sabine sur la réverbération. Il figure pourtant, avec le Musikverein de Vienne et le Symphony Hall de Boston, parmi les trois salles les mieux classées par l'acousticien Leo Beranek. Une grande salle peut naître de l'expérience et du bon sens avant que la théorie ne l'explique."
+    },
+    {
+      "id": "l4-a-rota-parrain",
+      "category": "anecdote",
+      "domain": "musique",
+      "text": "En 1973, la partition de Nino Rota pour « Le Parrain » (1972) est retirée de la liste des nominations à l'Oscar : l'Académie constate que son thème d'amour reprend une musique écrite pour « Fortunella » (1958). Rota remportera pourtant l'Oscar en 1975, avec Carmine Coppola, pour « Le Parrain, 2e partie ». Le règlement exige une musique originale pour le film : mieux vaut le savoir avant de rendre sa partition."
+    },
+    {
+      "id": "l4-a-goldsmith-omen",
+      "category": "anecdote",
+      "domain": "musique",
+      "text": "Jerry Goldsmith a été nommé dix-huit fois aux Oscars, mais n'a remporté la statuette qu'une seule fois, en 1977, pour « La Malédiction » (1976). Son chœur en latin, « Ave Satani », y fut aussi nommé dans la catégorie chanson. Un métier de compositeur de film se construit sur la durée, pas sur les trophées."
+    },
+    {
+      "id": "l4-a-north-2001",
+      "category": "anecdote",
+      "domain": "musique",
+      "text": "En 1967-1968, Alex North écrit une partition originale pour « 2001, l'Odyssée de l'espace », à la demande de Stanley Kubrick. Au montage, Kubrick préfère finalement les œuvres classiques qui lui servaient de musique temporaire ; d'après les récits, North ne l'apprend qu'à la première projection. Sa partition ne sera enregistrée et éditée qu'en 1993. Une musique temporaire peut s'imposer : parler tôt avec le réalisateur évite ce genre de surprise."
+    },
+    {
+      "id": "l4-a-semmelweis-mains",
+      "category": "anecdote",
+      "domain": "science",
+      "text": "En mai 1847, à l'hôpital général de Vienne, Ignace Semmelweis impose aux médecins de se laver les mains au chlorure de chaux avant d'examiner les accouchées. La mortalité mensuelle de son service passe de 18,3 % en avril à 2,2 % en juin. Ses résultats furent largement rejetés par ses confrères : une idée juste et mesurée peut mettre des années à convaincre."
+    },
+    {
+      "id": "l4-a-sony-ibuka",
+      "category": "anecdote",
+      "domain": "entreprise",
+      "text": "À l'automne 1945, Masaru Ibuka répare des radios dans les ruines d'un grand magasin de Tokyo. Le 7 mai 1946, il fonde avec Akio Morita Tokyo Tsushin Kogyo, qui deviendra Sony en 1958. Elle a démarré avec un petit capital, un savoir-faire technique et des clients à trouver : un début modeste n'empêche rien."
+    },
+    {
+      "id": "l4-a-yamaha-orgue",
+      "category": "anecdote",
+      "domain": "entreprise",
+      "text": "En 1887, Torakusu Yamaha, un réparateur de Hamamatsu, est appelé pour réparer un orgue à anches dans une école. Il comprend qu'il peut en fabriquer lui-même, ouvre un atelier en 1888, puis fonde Nippon Gakki en 1897, l'ancêtre de Yamaha. Tout est parti d'un service rendu à un premier client."
+    },
+    {
+      "id": "l4-a-lally-habitude",
+      "category": "anecdote",
+      "domain": "reves",
+      "text": "En 2010, Phillippa Lally et ses collègues de l'University College London suivent 96 volontaires qui répètent une nouvelle habitude chaque jour pendant 84 jours. Le temps nécessaire pour qu'elle devienne automatique varie beaucoup d'une personne à l'autre : de 18 à 254 jours selon les estimations du modèle, avec une médiane de 66 jours. Rater un jour isolé n'a pas nui sensiblement au processus : reprends le lendemain."
+    },
+    {
+      "id": "l4-a-fresh-start",
+      "category": "anecdote",
+      "domain": "reves",
+      "text": "En 2014, Hengchen Dai, Katherine Milkman et Jason Riis montrent dans Management Science que les repères temporels (début de semaine, de mois, d'année, anniversaire) poussent à s'engager dans de bons objectifs : les recherches Google sur les régimes et les visites à la salle de sport augmentent juste après. Choisis une date de départ symbolique pour ton projet, mais ne la repousse pas trop."
+    },
+    {
+      "id": "l4-a-jenkins-sommeil",
+      "category": "anecdote",
+      "domain": "apprentissage",
+      "text": "En 1924, les psychologues John Jenkins et Karl Dallenbach, de Cornell, font apprendre des syllabes sans signification à des sujets, puis testent leur mémoire après un à huit heures passées soit éveillés, soit endormis. Après le sommeil, ils oublient moins qu'après le même temps éveillés. Dormir après avoir étudié n'est donc pas du temps perdu."
+    },
+    {
+      "id": "l4-a-rozenblit-keil",
+      "category": "anecdote",
+      "domain": "apprentissage",
+      "text": "En 2002, Leonid Rozenblit et Frank Keil demandent à des étudiants de Yale de noter leur compréhension d'objets du quotidien (fermeture éclair, chasse d'eau, serrure à cylindre…), puis d'en écrire l'explication détaillée. Après cet essai, ils se notent nettement plus bas : c'est l'illusion de profondeur explicative. Pour savoir si tu maîtrises un sujet, explique-le par écrit, sans notes."
+    },
+    {
+      "id": "l4-a-ancrage-tversky",
+      "category": "anecdote",
+      "domain": "apprentissage",
+      "text": "En 1974, Amos Tversky et Daniel Kahneman font tourner devant des participants une roue de loterie truquée, qui s'arrête sur 10 ou sur 65, puis leur demandent la part des pays africains à l'ONU. Les estimations médianes sont de 25 % après le 10 et de 45 % après le 65. Un chiffre arbitraire influence le jugement : pour un devis, fais ton estimation avant de voir le chiffre du client."
+    },
+    {
+      "id": "l4-a-wald-survivant",
+      "category": "anecdote",
+      "domain": "apprentissage",
+      "text": "Pendant la Seconde Guerre mondiale, le statisticien Abraham Wald, du Statistical Research Group de l'université Columbia, étudie les impacts relevés sur les bombardiers revenus de mission. Son raisonnement : on ne voit que les avions qui ont survécu, et les zones épargnées sur ceux-ci sont celles où une touche empêchait de revenir. C'est le biais du survivant. Demande-toi toujours ce que tu ne vois pas : les projets abandonnés, les échecs absents des récits de réussite."
+    },
+    {
+      "id": "l4-e-relire-voix-haute",
+      "category": "encouragement",
+      "domain": "acoustique",
+      "text": "Avant d'envoyer un rapport d'acoustique, relis-le à voix haute. L'oreille repère les phrases bancales et les chiffres incohérents que l'œil survole."
+    },
+    {
+      "id": "l4-e-trois-instruments",
+      "category": "encouragement",
+      "domain": "musique",
+      "text": "Compose ce soir avec seulement trois instruments. Une contrainte claire oblige à faire des choix, et ce sont les choix qui donnent une identité à ta musique."
+    },
+    {
+      "id": "l4-e-premier-client-preuve",
+      "category": "encouragement",
+      "domain": "entreprise",
+      "text": "Ton premier client n'est pas un contrat idéal, c'est une preuve que quelqu'un paie pour ce que fait We Make Waves. Livre bien, puis demande-lui ce qui lui a vraiment servi."
+    },
+    {
+      "id": "l4-e-bande-originale-reference",
+      "category": "encouragement",
+      "domain": "musique",
+      "text": "Choisis une bande originale que tu admires et écris en trois phrases pourquoi elle fonctionne : le rôle de l'instrumentation, du silence, du thème. Une analyse courte vaut mieux qu'une écoute passive."
+    },
+    {
+      "id": "l4-e-heure-lucide",
+      "category": "encouragement",
+      "domain": "general",
+      "text": "Repère l'heure de la journée où tu es le plus lucide et réserve-la à la tâche la plus difficile. Les e-mails et la paperasse se rangent dans les creux."
+    },
+    {
+      "id": "l4-e-relire-comme-client",
+      "category": "encouragement",
+      "domain": "entreprise",
+      "text": "Avant d'envoyer un devis ou un rapport, relis-le comme si tu étais le client : comprendrait-il tout sans toi à côté ? Ce qui est évident pour toi ne l'est pas pour lui."
+    },
+    {
+      "id": "l4-e-pas-de-comparaison",
+      "category": "encouragement",
+      "domain": "general",
+      "text": "Ne compare pas ton premier mois à la dixième année des autres. Compare-toi à toi-même, il y a trois mois : voilà la bonne mesure."
+    },
+    {
+      "id": "l4-e-un-critere",
+      "category": "encouragement",
+      "domain": "general",
+      "text": "Fixe-toi un seul critère de réussite pour la séance : huit mesures écrites, trois points de mesure relevés. Quand il est atteint, tu as le droit de t'arrêter."
+    },
+    {
+      "id": "l4-e-oreille-neuve",
+      "category": "encouragement",
+      "domain": "musique",
+      "text": "Fais écouter ton morceau inachevé à quelqu'un cette semaine. Une oreille neuve repère en une minute ce que dix relectures ne te montreront pas."
+    },
+    {
+      "id": "l4-e-apres-refus",
+      "category": "encouragement",
+      "domain": "entreprise",
+      "text": "Un projet refusé ne dit pas que tu n'es pas bon. Note une chose que tu en retiens, puis passe au suivant dès demain."
+    }
+  ]
+}
